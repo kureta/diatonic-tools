@@ -14,6 +14,7 @@ seaborn = "^0.13.2"
 notebook = "^7.2.1"
 scipy = "^1.14.0"
 tqdm = "^4.66.4"
+music21 = "^9.1.0"
 
 
 [build-system]
